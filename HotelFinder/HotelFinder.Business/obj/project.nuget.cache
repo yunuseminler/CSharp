@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l+t5KeGJAoUZEWKBP2nUhNb4eVctcQldAwAPSSV+j/93WFnNFsurNiRV6WDu6p5K3ufimeLKXt1dfwMGKap6wA==",
+  "dgSpecHash": "7FfMfxYLNP6WHlpATuG1+9IJjVGhrAAFAP/3xBPY7lkgno+mTnFl3l3I8XCVJFyf//nAjOZQaL/mKyGLdE+7xg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yunus Emre\\source\\repos\\HotelFinder\\HotelFinder.Business\\HotelFinder.Business.csproj",
+  "projectFilePath": "C:\\Users\\Yunus Emre\\Source\\Repos\\yunuseminler\\CSharp\\HotelFinder\\HotelFinder.Business\\HotelFinder.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yunus Emre\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Yunus Emre\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gQwdZyeaf5gI+GlWU4x07DoK3DWCcC3t5hjNDnm0NnFiC3Zwnr//fVg1C0zn8X0xxjcgZKRAb63hF6eN9AHtig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yunus Emre\\source\\repos\\yunuseminler\\CSharp\\WorkProject\\WorkProject.FormApps\\WorkProject.FormApps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yunus Emre\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Yunus Emre\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

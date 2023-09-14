@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1QDxF0bw/evD0LcSVt8RS+/pq9DPJ4Pmlef7E/Zv6ptpytxomuzLlkF8zXzkQrFgfAzvt/7/Y7yF1481edZfFA==",
+  "dgSpecHash": "5OOKn28UlWHqkbV9+RjOJ7BoOjLaxX+RRJCGvBFsiPjb21QVrPguboBljpuZx9jndNzlpfkeHUHJJ7BRShyKpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yunus Emre\\source\\repos\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
+  "projectFilePath": "C:\\Users\\Yunus Emre\\Source\\Repos\\yunuseminler\\CSharp\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
